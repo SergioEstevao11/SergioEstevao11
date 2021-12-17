@@ -1,4 +1,4 @@
-### ostrich olgorithm enjoyer
+### Ostrich algorithm enjoyer
 
 
 
