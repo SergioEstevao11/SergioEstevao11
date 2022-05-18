@@ -1,9 +1,6 @@
-### Ostrich algorithm enjoyer
-
-
 
 <!--
-**SergioEstevao11/SergioEstevao11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**miguelazevedolopes/miguelazevedolopes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -15,4 +12,19 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+-->
+#### My name is Sérgio, I'm 20 years old Software and Computing Engineering student based in the city of Porto.
+
+#### I'm usually doing one of these three things:
+
+💻  Getting my BSc in Computer Engineering at [FEUP](https://sigarra.up.pt/feup/pt/web_page.inicial)   
+⚡   Interning at [Smartex.ai](https://www.smartex.ai/)
+🌱  Reading in the shade
+
+<!--
+#### Currently working on:
+
+👯 My online [resume](https://miguelazevedolopes.github.io/) using Three.js 
+
+
 -->
