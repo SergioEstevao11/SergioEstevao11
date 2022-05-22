@@ -23,6 +23,9 @@ Here are some ideas to get you started:
 
 <img style="padding-top: 1em;" height="180em" src="https://github-readme-stats.vercel.app/api?username=SergioEstevao11&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true&theme=dark" />
 
+<a target="_blank" href="https://www.linkedin.com/in/s%C3%A9rgio-est%C3%AAv%C3%A3o-2067b41b8/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"></img></a>
+<a target="_blank" href="mailto:smestevao11@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white"></img></a>
+
 
 <!--
 #### Currently working on:
