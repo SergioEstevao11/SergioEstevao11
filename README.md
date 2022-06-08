@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 #### I'm usually doing one of these three things:
 
-💻  Getting my BSc in Software && Computing Engineering at [FEUP](https://sigarra.up.pt/feup/pt/cur_geral.cur_view?pv_ano_lectivo=2021&pv_curso_id=22841)   
+💻  Getting my BSc in Informatics && Computing Engineering at [FEUP](https://sigarra.up.pt/feup/pt/cur_geral.cur_view?pv_ano_lectivo=2021&pv_curso_id=22841)   
 ⚡   Interning at [Smartex.ai](https://www.smartex.ai/) \
 🌱  Reading in the shade
 
