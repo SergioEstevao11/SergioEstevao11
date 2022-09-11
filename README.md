@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 #### I'm usually doing one of these things:
 
-💻  Getting my BSc in Informatics && Computing Engineering at [FEUP](https://sigarra.up.pt/feup/pt/cur_geral.cur_view?pv_ano_lectivo=2021&pv_curso_id=22841)   
+💻  Getting my MSc in Informatics && Computing Engineering at [FEUP](https://sigarra.up.pt/feup/pt/cur_geral.cur_view?pv_ano_lectivo=2021&pv_curso_id=22841)   
 🌱  Reading in the shade
 
 <img style="padding-top: 1em;" height="180em" src="https://github-readme-stats.vercel.app/api?username=SergioEstevao11&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true&theme=dark" />
