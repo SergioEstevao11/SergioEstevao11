@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-#### My name is Sérgio, I'm 20 yo Informatics and Computing Engineering student based in the city of Porto.
+#### My name is Sérgio, I'm an Informatics and Computing Engineering student based in the city of Porto.
 
 #### I'm usually doing one of these things:
 
