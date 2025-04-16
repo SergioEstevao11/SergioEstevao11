@@ -14,7 +14,7 @@
 
 #### I'm usually doing one of these things:
 
-💻  Working on BMW's Cloud Data Hub Project  
+💻  Working on BMW's Cloud Data Hub Project - [link](https://aws.amazon.com/pt/blogs/industries/bmw-cloud-data-hub-a-reference-implementation-of-the-modern-data-architecture-on-aws/)
 🌱  Reading in the shade
 
 <a style="padding-top: 1em;" href="https://github.com/SergioEstevao11"><img src="https://github-readme-stats.vercel.app/api?username=SergioEstevao11&count_private=true&&theme=dark" height="180" /></a>
